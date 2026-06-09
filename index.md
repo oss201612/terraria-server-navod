@@ -109,7 +109,9 @@ systemctl status terraria
 ```
 
 > `WorkingDirectory` a `ExecStart` obsahují složku verze `1456` — při aktualizaci uprav obojí.
-[Watch the vanilla setup video](vanila.mp4)
+
+
+[Video z spuštěním](vanila.mp4)
 
 ---
 
@@ -156,7 +158,7 @@ Potom:
 - `install` udělá `install-tml` i `install-mods` najednou
 - Přes `--folder /plna/cesta` udržíš data serveru (Mods, Worlds, serverconfig.txt) na jednom místě; uváděj ho u každého příkazu
 - Pro spouštění bez vstupu / přes systemd zkopíruj vzorový `serverconfig.txt` a vyplň ho (stejné parametry jako v Části 1)
-- [Watch the tModLoader setup video](moded.mp4)
+- [Video ze spuštěním](moded.mp4)
 
 ### Aktualizace
 - Instalace přes SteamCMD: spusť znovu `./manage-tModLoaderServer.sh install-tml`
