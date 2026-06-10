@@ -2,7 +2,7 @@
 
 Testováno na Debian. **Verze serveru: 1.4.5.6.**
 
-[Dokumentace](Dokumentace_Terraia_server.pdf)
+[Dokumentace](Dokumentace_Terraria_server.pdf)
 
 ---
 
