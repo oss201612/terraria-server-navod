@@ -1,11 +1,8 @@
 # Terraria dedikovaný server — instalace na Linuxu
 
-Testováno na Ubuntu 22.04 / Debian. **Verze serveru: 1.4.5.6.**
+Testováno na Debian. **Verze serveru: 1.4.5.6.**
 
-Co se změnilo oproti minulé verzi návodu:
-- Nová URL balíčku: `terraria-server-1456.zip`
-- Rozbalená složka je teď `1456/` (dřív `1449`)
-- Vypuštěno `lib32gcc-s1` — pro 64bitovou binárku není potřeba
+[Dokumentace](Dokumentace_Terraia_server.pdf)
 
 ---
 
